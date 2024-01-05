@@ -1,6 +1,6 @@
 # Mathematical Modeling Project: Stochastic Programming and Its Applications
 - Mathematical Modeling Course - CO2011 - Ho Chi Minh City University of Technology
-- Semester 231
+- Semester: 231
 - Duration: 6 weeks
 - Topic: Stochastic Programming and Its Applications
 
