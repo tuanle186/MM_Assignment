@@ -25,6 +25,3 @@ Encompass the various possible outcomes or states of the system. Stochastic prog
 
 ## Applications
 Stochastic programming finds applications in diverse fields such as finance, supply chain management, energy, and, importantly for us, in the realm of computer engineering. As technology becomes increasingly intertwined with uncertainty, understanding stochastic programming becomes pivotal for making informed and robust decisions.
-
-## Getting Started
-This repository includes examples, algorithms, and resources to delve into the world of stochastic programming. Whether you're a student, researcher, or enthusiast in computer engineering or related fields, exploring this repository can provide valuable insights into handling uncertainty in decision-making processes.
