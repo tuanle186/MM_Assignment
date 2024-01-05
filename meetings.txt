@@ -1,0 +1,30 @@
+_ MEMBER LIST AND WORKLOAD
+|---|---------------------------|----------|----------------------------|------------|
+|No.|	Full name		|Student ID|		Problem		|Contribution|
+|---|---------------------------|----------|----------------------------|------------|
+| 1 |	Le Quoc Tuan		| 2153944  |		Problem 1	|     20%    |
+|---|---------------------------|----------|----------------------------|------------|
+| 2 |	Tran Nguyen Anh Khoi	| 2252383  |		Problem 1	|     20%    |
+|---|---------------------------|----------|----------------------------|------------|
+| 3 |	Vo Truc Son		| 2252720  |		Problem 2	|     20%    |
+|---|---------------------------|----------|----------------------------|------------|
+| 4 |	Tran Manh Tai		| 2152950  |		Problem 2	|     20%    |
+|---|---------------------------|----------|----------------------------|------------|
+| 5 |	Nguyen Minh Quan	| 2252683  |		Problem 2	|     20%    |
+|---|---------------------------|----------|----------------------------|------------|
+
+_ MEETING:
+	+ 14/11: Allocate the workload to each member.
+		 Decide on the contents of Latex report and search for reference materials to study the assignment.
+		 Determine the percentage of tasks required to finished before the next meeting.
+		 Each member will read the assignment file to fully comprehend its requirements.
+	+ 22/11: Check the progress of the Latex report.
+		 Decide on the software used for programs to solve the model.
+		 Complete parts of the theoretical analysis of the problems.
+	+ 1/12 : Check the progress of the Latex report.
+		 Check the implementation of programs and fulfil some additional requirements from the assigment.
+		 Study and find solutions to the application of the model, along with some testing of the algorithm.
+	+ 12/12: Check the progress of the Latex report.
+		 Finish the codes for solving models.
+		 Take a week off to prepare for the final exams and 
+		 the team will continue to finish the rest of the report later until the deadline.

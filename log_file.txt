@@ -1,0 +1,35 @@
+_ MEMBER LIST AND WORKLOAD
+|---|---------------------------|----------|----------------------------|------------|
+|No.|	Full name		|Student ID|		Problem		|Contribution|
+|---|---------------------------|----------|----------------------------|------------|
+| 1 |	Le Quoc Tuan		| 2153944  |		Problem 1	|     20%    |
+|---|---------------------------|----------|----------------------------|------------|
+| 2 |	Tran Nguyen Anh Khoi	| 2252383  |		Problem 1	|     20%    |
+|---|---------------------------|----------|----------------------------|------------|
+| 3 |	Vo Truc Son		| 2252720  |		Problem 2	|     20%    |
+|---|---------------------------|----------|----------------------------|------------|
+| 4 |	Tran Manh Tai		| 2152950  |		Problem 2	|     20%    |
+|---|---------------------------|----------|----------------------------|------------|
+| 5 |	Nguyen Minh Quan	| 2252683  |		Problem 2	|     20%    |
+|---|---------------------------|----------|----------------------------|------------|
+
+_ WEEKLY PROGRESS OF THE ASSIGNMENT
+
+	+ Week 1(6/11  - 12/11)	: read the assignment files and search for the relevant materials
+	+ Week 2(13/11 - 19/11)	: Problem 1: study the 2-stage multiproduct assembly model
+				  Problem 2: study max-flow and min-cost flow problems
+	+ Week 3(20/11 - 26/11)	: Problem 1: study the algorithm and implement a program to solve the model
+				  Problem 2: study 2-stage stochastic framework for evacuation planning
+	+ Week 4(27/11 -  3/12)	: Problem 1: start Latex presentation and continue the code
+				  Problem 2: start Latex presentation and study the algorithmic solution to the problem
+	+ Week 5(4/12  - 10/12)	: Problem 1: continue Latex presentation and code
+				  Problem 2: continue Latex presentation and study program for solving min-cost flow
+	+ Week 6(11/12 - 17/12)	: Problem 1: continue Latex presentation and code
+				  Problem 2: continue Latex presentation
+	+ Week 7(18/12 - 24/12)	: Problem 1: complete the program and continue Latex presentation
+				  Problem 2: continue Latex presentation
+	+ Week 8(25/12 - 31/12)	: Problem 1: complete Latex presentation
+				  Problem 2: continue Latex presentation
+	+ Week 9(1/1   -   2/1)	: complete all the tasks and finish the assignment
+
+
