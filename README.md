@@ -1,4 +1,4 @@
-# Mathematical Modeling Project: Stochastic Programming and Its Applications
+# Mathematical Modeling Project: Stochastic Programming in Profit Optimization and Disaster Evacuation
 - Mathematical Modeling Course - CO2011 - Ho Chi Minh City University of Technology
 - Semester: 231
 - Duration: 6 weeks
